@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit file first time
+# This is a test commit file first
 def add(a, b):
     return a + b
 
